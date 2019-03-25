@@ -12,3 +12,6 @@ This can be used to sync client with a server on realtime basis.
 - Run the project by `yarn run dev`
 - Now open console window on the localhost:[`your Port, generay3000`]
 - You will see logs every second till 10 seconds and then connection will close
+
+## For further info Refer
+- https://medium.com/conectric-networks/a-look-at-server-sent-events-54a77f8d6ff7
