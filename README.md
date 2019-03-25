@@ -15,3 +15,4 @@ This can be used to sync client with a server on realtime basis.
 
 ## For further info Refer
 - https://medium.com/conectric-networks/a-look-at-server-sent-events-54a77f8d6ff7
+- https://www.html5rocks.com/en/tutorials/eventsource/basics/#toc-introduction-differences
